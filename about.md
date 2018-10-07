@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<img class='my_image' src='../websiteDocuments/profilePic.jpeg' alt='profilePic'/>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Quickly about me: My name is Osman Hajiyev and I am an undergraduate student in the University of British Columbia majoring in Computer Science. I am guilty of being passionate about a lot of things within the field of computer science. When I was a kid I never thought it was possible to love work but I love what I do, I love what I am studying. I am thankful I was lucky enough to find the work I love doing. 
 
+Passions: Computer Science, coding
 
-[jekyll-organization]: https://github.com/jekyll
+Hobbies: Football (Soccer), Skiing, Cooking
+
