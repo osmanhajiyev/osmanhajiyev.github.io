@@ -18,7 +18,7 @@ This website is still not finished and it will be finished soon, but here is som
 
 <h1>Passions:</h1> Computer Science, coding
 
-<h1>Hobbies:</h1> Football (Soccer), Skiing, Cooking, Reading useful imo articles online, Reading useful or beautiful imo books, spending time with friends, family, girlfriend and people I admire.
+<h1>Hobbies:</h1> Football (Soccer), Skiing, Cooking, Reading useful imo articles online, Reading useful or beautiful imo books, spending time with friends, family, girlfriend and people I admire/lookUpTo/canLearnFrom
 
 <h1>I love Canada</h1> (and also USA, but I guess I love Canada more since I am living here right now) and I am very thankful for living and studying in such a great country. Canada's culture, people and identity is among the best in the world.
 
