@@ -6,6 +6,8 @@ permalink: /about/
 
 <img class='my_image' src='../websiteDocuments/profilePic.jpeg' alt='profilePic'/>
 
+<a href ="../websiteDocuments/Osman-Hajiyev-Resume.pdf">Click here to view my Resume in PDF format</a>
+
 Hi!
 
 This website is still not finished and it will be finished soon, but here is some basic information:
