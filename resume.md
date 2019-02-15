@@ -14,11 +14,12 @@ Phone: +1 778 302 6768    Email: <a href="mailto:osman.hajiyev@gmail.com">osman.
 Github: <a href="https://github.com/osmanhajiyev">https://github.com/osmanhajiyev</a>    LinkedIn: <a href="https://www.linkedin.com/in/osmanhajiyev">https://www.linkedin.com/in/osmanhajiyev</a>
 
 <h1>Education</h1>                                                                                                                                
-<b>University of British Columbia	</b>		                      	             September 2014 - December 2018<br />
+<b>University of British Columbia	</b>		                      	             Graduation ceremony: May 2019<br />
 B.Sc., Major in Computer Science<br />
 •	Outstanding International Student Award<br />
 •	Full-ride Scholarship for academic and extracurricular achievement<br />
-•	Relevant courses: Machine Learning and Data Mining, Advanced Operating Systems, Computer Graphics, Internet Computing, Advanced Algorithm Design and Analysis, Intelligent Systems, Computer Vision, Artificial Intelligence, Software Engineering<br />
+•	Relevant courses: Machine Learning and Data Mining, Advanced Operating Systems, Computer Graphics, Internet Computing, Advanced Algorithm Design and Analysis, Intelligent Systems, Computer Vision, Artificial Intelligence, Software Engineering
+•	Activities: Numerous hackathons (more than 15-20), CS research seminars, ML reading group, VP of AzSA<br />
 
 <h1>Work Experience</h1>
 <b>HAT Medicine Clinics – Web Developer and IT Support</b>	                                      May - August 2017<br />
@@ -52,3 +53,4 @@ Languages: C || Worked with a teammate for an Internet Computing course<br />
 <b>Languages:</b> English, Russian, Turkish and Azerbaijani<br />
 <b>Programming Languages:</b> 2+ years: C, C++, Java<br />
  Familiar: Python, Julia, JavaScript, SQL, x86 Assembly, HTML and CSS 
+ Tech - NodeJS, Docker, Agile (Scrum), PostgreSQL, Linux, TypeScript
