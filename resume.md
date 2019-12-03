@@ -22,9 +22,9 @@ B.Sc., Major in Computer Science<br />
 •	Activities: Numerous hackathons (more than 15-20), CS research seminars, ML reading group, VP of AzSA<br />
 
 <h1>Work Experience</h1>
-<b>HAT Medicine Clinics – Web Developer and IT Support</b>	                                      May - August 2017<br />
+<b>HAT Medicine Clinics – Web Developer</b>	                                      May - August 2017<br />
 •	Worked on front-end quality assurance, redesigning old user features based on user needs, and implementing new features using different APIs for a better user experience.<br />
-•	Collaborated with the CEO and CFO of HAT Medicine Clinics and implemented their suggested structural improvements to their company website.<br />
+•	Collaborated with the CEO and CFO of HAT Medicine Clinics and implemented their suggested structural improvements to their company website. hatmedicine.com <br />
 
 <b>Computer Science/Programming Instructor</b>		          			                         June - August 2017<br />
 •	Taught the basics of computer science with fun examples to a group of 14 high school and middle school kids.<br />
@@ -38,10 +38,11 @@ Languages: Mostly C and x86 Assembly || Worked with a teammate for an Advanced O
 •	Provided inter process communication (process<->process, kernel<->process) through system traps/interrupts.<br />
 •	Built device driver handler and integrated keyboard (communication using interrupts) for the operating system.<br />
 
-<b>Social media for comics lovers</b>	       		                
-Source code: <a href="https://github.com/osmanhajiyev/Comicon">https://github.com/osmanhajiyev/Comicon</a><br />
-Languages: Mostly JavaScript, HTML, CSS Database: MongoDB || Worked with 3 teammates, Agile (Scrum) <br />
-•	Implemented login and registration using tokens, drawing and editing comics as a front-end functionality and also the ability of following users, comics, collections, befriending users, commenting, rating and saving comics.<br />
+<b>EarthQuick (Lab earthquake timing prediction using machine learning)</b>	       		                
+Source code: <a href="https://github.com/tingkai-zhang/EarthQuick">https://github.com/tingkai-zhang/EarthQuick</a><br />
+Python, HTML, CSS, Azure <br />
+•	•	Was invited to present on stage in front of Microsoft management and other guests in Microsoft Canada HQ
+•	Built the web app through which users can interact with our model<br />
 
 <b>FTP Server</b>                    	       			<br />
 Source code: <a href="https://github.com/osmanhajiyev/Simple-FTP-server-in-C">https://github.com/osmanhajiyev/Simple-FTP-server-in-C</a><br />
@@ -51,6 +52,5 @@ Languages: C || Worked with a teammate for an Internet Computing course<br />
 
 <h1>Skills</h1>
 <b>Languages:</b> English, Russian, Turkish and Azerbaijani<br />
-<b>Programming Languages:</b> 2+ years: C, C++, Java<br />
- Familiar: Python, Julia, JavaScript, SQL, x86 Assembly, HTML and CSS 
- Tech - NodeJS, Docker, Agile (Scrum), PostgreSQL, Linux, TypeScript
+<b>Tech:</b> 
+ Tech: Node.js, Agile (Scrum), PostgreSQL, Docker, TypeScript, C, C++, Java, Python, JavaScript, SQL, HTML, CSS, Git, OOP, React
