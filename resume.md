@@ -39,18 +39,18 @@ Languages: Mostly C and x86 Assembly || Worked with a teammate for an Advanced O
 •	Built device driver handler and integrated keyboard (communication using interrupts) for the operating system.<br />
 
 <b>EarthQuick (Lab earthquake timing prediction using machine learning)</b>	       		                
-Source code: <a href="https://github.com/tingkai-zhang/EarthQuick">https://github.com/tingkai-zhang/EarthQuick</a><br />
+Source code: <a href="https://github.com/osmanhajiyev/EarthQuick">https://github.com/osmanhajiyev/EarthQuick</a><br />
 Python, HTML, CSS, Azure <br />
-•	•	Was invited to present on stage in front of Microsoft management and other guests in Microsoft Canada HQ
+•	Was invited to present on stage in front of Microsoft management and other guests in Microsoft Canada HQ
+•	Learned various machine learning models and worked on applying them
 •	Built the web app through which users can interact with our model<br />
 
 <b>FTP Server</b>                    	       			<br />
 Source code: <a href="https://github.com/osmanhajiyev/Simple-FTP-server-in-C">https://github.com/osmanhajiyev/Simple-FTP-server-in-C</a><br />
 Languages: C || Worked with a teammate for an Internet Computing course<br />
 •	Using C socket programming created a simple FTP server that any client could access.<br />
-•	Coded and provided basic FTP server commands for many clients at once. Commands supported: LIST, USER, QUIT, PASV, CD, MODE, TYPE, STRU, RETR (download files).<br />
 
 <h1>Skills</h1>
 <b>Languages:</b> English, Russian, Turkish and Azerbaijani<br />
 <b>Tech:</b> 
- Tech: Node.js, Agile (Scrum), PostgreSQL, Docker, TypeScript, C, C++, Java, Python, JavaScript, SQL, HTML, CSS, Git, OOP, React
+ Tech: Node.js, Agile (Scrum), MySQL, TypeScript, C, C++, Java, Python, JavaScript, SQL, HTML, CSS, Git, OOP, React

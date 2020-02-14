@@ -6,7 +6,7 @@ permalink: /projects/
 
 <h1>Projects:</h1>
 
-Still not finished but here is a little bit of stuff: <br />	
+Here is a little bit of stuff: <br />	
 
 To see more go to my github account:
 Github: <a href="https://github.com/osmanhajiyev">https://github.com/osmanhajiyev</a> <br />	
